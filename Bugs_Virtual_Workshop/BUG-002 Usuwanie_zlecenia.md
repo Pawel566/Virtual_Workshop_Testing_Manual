@@ -36,9 +36,9 @@ Checkbox "W pracy" nie jest zaznaczony.
 
 ## Załączniki:
 
-📎 [Narzędzie przypisane do zlecenia (lista narzędzi)  ](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user2.png)  
-📎 [Narzędzie przypisane do zlecenia](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user3.png)
-📎 [Po usunięciu zlecenia (lista narzędzi)](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user3.png)
+📎 [Narzędzie przypisane do zlecenia (lista narzędzi)  ](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/Bug_002_przed%20usuni%C4%99ciem.png)  
+📎 [Narzędzie przypisane do zlecenia](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_002_zlecenie.png)
+📎 [Po usunięciu zlecenia (lista narzędzi)](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_002_po_usunieciu_zlecenia.png)
 
 
 ---
@@ -49,3 +49,4 @@ Checkbox "W pracy" nie jest zaznaczony.
 - Stworzono za pomocą dillinger.io  
 
 ---
+
