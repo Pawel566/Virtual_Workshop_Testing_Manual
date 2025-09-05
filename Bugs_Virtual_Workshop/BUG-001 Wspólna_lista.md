@@ -23,8 +23,8 @@ System wyświetla te same dane (narzędzia, zlecenia, serwis) dla wszystkich kon
 ---
 ## Załączniki:
 
-📎 [Lista narzędzi user2 (zrzut ekranu)](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user2.png)  
-📎 [Lista narzędzi user3 (zrzut ekranu)](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user3.png)
+📎 [Lista narzędzi user2 (zrzut ekranu)](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user2.png)  
+📎 [Lista narzędzi user3 (zrzut ekranu)](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user3.png)
 
 
 ---
@@ -35,3 +35,4 @@ System wyświetla te same dane (narzędzia, zlecenia, serwis) dla wszystkich kon
 - Stworzono za pomocą dillinger.io  
 
 ---
+
