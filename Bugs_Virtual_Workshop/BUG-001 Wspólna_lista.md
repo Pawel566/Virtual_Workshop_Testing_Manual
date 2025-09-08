@@ -11,6 +11,9 @@ System wyświetla te same dane (narzędzia, zlecenia, serwis) dla wszystkich kon
 
 ---
 
+## Warunki wstępne:
+
+
 ## Kroki odtworzenia:
 
 | #  | Akcja                                                | Dane wejściowe                          | Rzeczywisty wynik                                     | Oczekiwany wynik                                      |
@@ -35,4 +38,5 @@ System wyświetla te same dane (narzędzia, zlecenia, serwis) dla wszystkich kon
 - Stworzono za pomocą dillinger.io  
 
 ---
+
 
