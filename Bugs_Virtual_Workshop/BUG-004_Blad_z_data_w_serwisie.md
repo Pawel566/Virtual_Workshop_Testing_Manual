@@ -33,8 +33,8 @@ Brak możliwości dodania narzędzia do serwisu podając wcześniejszą datę (n
 
 ## Załączniki:
 
-📎 [Niewłaściwa data](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user2.png)  
-📎 [Dodanie do serwisu](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user3.png)
+📎 [Niewłaściwa data](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_004_wybieranie_daty.png)  
+📎 [Dodanie do serwisu](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_004_dodanie_do_serwisu.png)
 
 
 
@@ -46,3 +46,4 @@ Brak możliwości dodania narzędzia do serwisu podając wcześniejszą datę (n
 - Stworzono za pomocą dillinger.io  
 
 ---
+
