@@ -36,8 +36,8 @@ Brak możliwości dodania narzędzia przy zerowej ilości. Taka próba powinna b
 
 ## Załączniki:
 
-📎 [Niewłaściwa ilość](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user2.png)  
-📎 [Dodanie do listy](https://github.com/Pawel566/Virtual_workshop_testing/blob/main/screenshots/bug_001_user3.png)
+📎 [Niewłaściwa ilość](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_005_dodawanie_narzedzia.png)  
+📎 [Dodanie do listy](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_005_lista_narzedzi.png)
 
 
 
@@ -49,4 +49,5 @@ Brak możliwości dodania narzędzia przy zerowej ilości. Taka próba powinna b
 - Stworzono za pomocą dillinger.io  
 
 ---
+
 
