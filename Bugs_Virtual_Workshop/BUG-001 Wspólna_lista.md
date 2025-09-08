@@ -12,6 +12,9 @@ System wyświetla te same dane (narzędzia, zlecenia, serwis) dla wszystkich kon
 ---
 
 ## Warunki wstępne:
+Istnieją przynajmniej 2 różne konta w systemie.
+
+___
 
 
 ## Kroki odtworzenia:
@@ -38,5 +41,6 @@ System wyświetla te same dane (narzędzia, zlecenia, serwis) dla wszystkich kon
 - Stworzono za pomocą dillinger.io  
 
 ---
+
 
 
