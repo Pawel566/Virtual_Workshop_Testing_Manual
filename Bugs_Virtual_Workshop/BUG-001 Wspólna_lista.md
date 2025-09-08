@@ -35,8 +35,8 @@ ___
 
 ## Załączniki:
 
-📎 [Lista narzędzi user2 (zrzut ekranu)](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user2.png)  
-📎 [Lista narzędzi user3 (zrzut ekranu)](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user3.png)
+📎 [Lista narzędzi user2](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user2.png)  
+📎 [Lista narzędzi user3](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user3.png)
 
 
 ---
@@ -47,6 +47,7 @@ ___
 - Stworzono za pomocą dillinger.io  
 
 ---
+
 
 
 
