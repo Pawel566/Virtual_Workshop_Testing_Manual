@@ -1,7 +1,9 @@
 # BUG-005: Błąd z dodaniem narzędzi w ilości = 0.
 
 **Priorytet:** Wysoki
+
 **Data zgłoszenia:** 08.09.2025 
+
 **Zgłaszający:** Paweł Garbaty  
 
 ---
@@ -47,3 +49,4 @@ Brak możliwości dodania narzędzia przy zerowej ilości. Taka próba powinna b
 - Stworzono za pomocą dillinger.io  
 
 ---
+
