@@ -19,14 +19,20 @@ ___
 
 ## Kroki odtworzenia:
 
-| #  | Akcja                                                | Dane wejściowe                          | Rzeczywisty wynik                                     | Oczekiwany wynik                                      |
-|----|-------------------------------------------------------|------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
-| 1  | Zaloguj się na konto user2                            | `login: user2`                           | -                                                      | Użytkownik jest zalogowany                            |
-| 2  | Dodaj narzędzie i utwórz zlecenie                     |                 | Narzędzie i zlecenie dodane                            | Pozycje zostały dodane                                                   |
-| 3  | Wyloguj się i zaloguj na konto user3                  | `login: user3`                           | -                                                      | Użytkownik jest zalogowany                            |
-| 4  | Przejdź do listy narzędzi i zleceń                    |             | user3 widzi narzędzia i zlecenia dodane przez user2    | user3 powinien widzieć tylko swoje narzędzia i zlecenia|
+1. Zaloguj się na konto "user2".
+2. Dodaj narzędzie i zlecenie.
+3. Wyloguj się.
+4. Zaloguj się na konto "user3"
+5. Przejdź do zakładek "Narzędzia" i "Zlecenia".
 
 ---
+## Rezultat rzeczywisty:
+Użytkownik "user3" widzi narzędzia i zlecenia dodane przez "user2".
+
+___
+## Rezultat oczekiwany:
+Żaden z użytkowników nie powinien widzieć narzędzi i zleceń dodanych przez innego. Każdy widzi wyłącznie dane dodane przez siebie.
+
 ## Załączniki:
 
 📎 [Lista narzędzi user2 (zrzut ekranu)](https://github.com/Pawel566/Virtual_Workshop_Testing_Manual/blob/main/Bugs_Virtual_Workshop/Screenshots/bug_001_user2.png)  
@@ -41,6 +47,7 @@ ___
 - Stworzono za pomocą dillinger.io  
 
 ---
+
 
 
 
