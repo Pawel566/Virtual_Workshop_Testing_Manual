@@ -2,7 +2,7 @@
 
 **Priorytet:** Średni 
 
-**Data zgłoszenia:** 1.09.2025 
+**Data zgłoszenia:** 8.09.2025 
 
 **Zgłaszający:** Paweł Garbaty  
 
@@ -48,6 +48,7 @@ Brak możliwości dodania narzędzia do serwisu podając wcześniejszą datę (n
 - Stworzono za pomocą dillinger.io  
 
 ---
+
 
 
 
